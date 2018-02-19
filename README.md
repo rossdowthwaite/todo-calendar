@@ -1,6 +1,13 @@
 # AngTodoCal
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+A todo-list application with a connected calendar.  
+
+## Features
+
+* Days with todos are marked
+* Clicking a day will open up the day with all the related todo items
+* Uses a weather Api to mark the weather on the calendar.
+
 
 ## Development server
 
